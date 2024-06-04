@@ -15,12 +15,7 @@
 ## 
 
 <div style="display: inline_block">
-    <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="postgreSQL" height="40" width="50" src="https://camo.githubusercontent.com/1c93309e27f7e3828accdc0492277a51ebaa33f925cd8b6a2b21262fe2b0db66/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32392f506f737467726573716c5f656c657068616e742e737667">
-  <img align="center" alt="git" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+  <img src="https://skillicons.dev/icons?i=py,sqlite,postgres,fastapi,docker,js,react,html,css,git&perline=5" alt="My Skills">
 </div>
 
 ###
