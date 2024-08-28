@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-motta/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathangmotta98@gmail.com)
 
-🖥️ Undergraduate chemist with 3+ years as developer and data analyst in the field of chemical engineering. I specialize in creating solutions that enhance efficiency and effectiveness. Currently working @ Safe Solutions Engenharia.
+🖥️ BSc Chemistry with 3+ years as developer and data analyst in the field of chemical engineering. I specialize in creating solutions that enhance efficiency and effectiveness. Currently working @ Safe Solutions Engenharia.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=130 align="center" src="https://github-readme-stats.vercel.app/api?username=jgmotta98&show_icons=true&theme=dark&rank_icon=github&hide=contribs" />
