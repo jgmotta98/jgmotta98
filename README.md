@@ -6,10 +6,10 @@
 🖥️ BSc Chemistry with 3+ years as developer and data analyst in the field of chemical engineering. I specialize in creating solutions that enhance efficiency and effectiveness. Currently working @ Safe Solutions Engenharia.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=jgmotta98&show_icons=true&theme=dark&rank_icon=github&hide=contribs" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=jgmotta98&show_icons=true&theme=dark&rank_icon=github&hide=contribs" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgmotta98&theme=dark&layout=compact" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgmotta98&theme=dark&layout=compact" />
 </a>
 
 ## 
