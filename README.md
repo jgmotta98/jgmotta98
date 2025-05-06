@@ -6,18 +6,24 @@
   <a href="mailto:jonathangmotta98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-🖥️ BSc in Chemistry with over 3 years of experience as a developer and data scientist in chemical engineering. Currently working @ Safe Solutions Engenharia.
+<img src="https://github-readme-stats.vercel.app/api?username=jgmotta98&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" align="right"> <br>
+
+<ul align="left">
+  <li><strong>BSc in Chemistry</strong></li>
+  <li>3+ years as <strong>developer</strong> & <strong>data scientist</strong></li>
+  <li>Specialized in <strong>chemical engineering</strong> projects</li>
+  <li>Learning and applying <strong>machine learning</strong></li>
+  <li>Working @ <strong>Safe Solutions Engenharia</strong></li>
+</ul>
+
+##
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=jgmotta98&theme=transparent&hide_border=true" width="56%" height="50%" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgmotta98&theme=transparent&hide_border=true&layout=compact" width="40%" height="40%" align="center">
 
 ## 
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=jgmotta98&show_icons=true&theme=dark&rank_icon=github&hide=contribs" /></a>
-  <a href="https://github.com/anuraghazra/convoychat"><img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgmotta98&theme=dark&layout=compact" /></a>
-</p>
-
-## 
-
-<p align="center">
-  <img height="120" src="https://skillicons.dev/icons?i=py,sqlite,postgres,fastapi,docker,js,react,html,css,git&perline=5" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=py,sqlite,postgres,fastapi,docker,js,react,html,css,git&perline=5" width="40%" height="40%" alt="My Skills">
 </p>
 
