@@ -24,6 +24,6 @@
 ## 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,sqlite,postgres,fastapi,docker,js,react,html,css,git&perline=5" width="150%" height="150%" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=py,sqlite,postgres,fastapi,docker,js,react,html,css,git&perline=5" width="140%" height="130%" alt="My Skills">
 </p>
 
