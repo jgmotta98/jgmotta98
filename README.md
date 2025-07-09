@@ -18,12 +18,12 @@
 
 ##
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=jgmotta98&theme=transparent&hide_border=true" width="56%" height="50%" align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgmotta98&theme=transparent&hide_border=true&layout=compact" width="40%" height="40%" align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=jgmotta98&theme=transparent&hide_border=true" width="49%" alt="GitHub Streak" align="right"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgmotta98&theme=transparent&hide_border=true&layout=compact" width="37%" alt="Top Languages" align="center"/>
 
 ## 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,sqlite,postgres,fastapi,docker,js,react,html,css,git&perline=5" width="40%" height="40%" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=py,sqlite,postgres,fastapi,docker,js,react,html,css,git&perline=5" width="150%" height="150%" alt="My Skills">
 </p>
 
